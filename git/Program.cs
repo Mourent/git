@@ -4,7 +4,6 @@ namespace git
 {
     class Program
     {
-        // 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
         static void Main(string[] args)
         {
             int inputAngka = Convert.ToInt32(Console.ReadLine());
